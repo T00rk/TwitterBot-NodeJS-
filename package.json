@@ -1,0 +1,28 @@
+{
+  "name": "TwitterBot-NodeJS-",
+  "version": "1.0.0",
+  "description": "Twitter Bot to play hangman",
+  "main": "app.js",
+  "dependencies": {
+    "node-twitterbot": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/T00rk/TwitterBot-NodeJS-"
+  },
+  "keywords": [
+    "nodejs",
+    "twitter",
+    "bot"
+  ],
+  "author": "T00rk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T00rk/TwitterBot-NodeJS-/issues"
+  },
+  "homepage": "https://github.com/T00rk/TwitterBot-NodeJS-"
+}
